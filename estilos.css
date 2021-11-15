@@ -1,0 +1,25 @@
+body{
+    background-color: ghostwhite;
+}
+
+
+header{
+    background-color: dodgerblue;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px black solid;
+    margin-bottom: 10px;
+
+}
+
+
+
+#caja{
+    background-color: red;
+    color: black;
+    width: 500px;
+    height: 100px;
+    padding: 40px;
+    text-align: center;
+    
+}
